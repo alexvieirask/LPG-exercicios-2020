@@ -1,0 +1,26 @@
+Dia=int(input("Digite o mês: "))
+
+if Dia>0 and Dia<2:
+    print("Janeiro tem 31 dias!")
+if Dia>1 and Dia<3:
+    print("Fevereiro tem 28 dias!")
+if Dia>2 and Dia<4:
+    print("Março tem 31 dias!")
+if Dia>3 and Dia<5:
+    print("Abril tem 30 dias!")
+if Dia>4 and Dia<6:
+    print("Maio tem 31 dias!")
+if Dia>5 and Dia<7:
+    print("Junho tem 30 dias!")
+if Dia>6 and Dia<8:
+    print("Julho tem 31 dias!")
+if Dia>7 and Dia<9:
+    print("Agosto tem 31 dias!")
+if Dia>8 and Dia<10:
+    print("Setembro tem 30 dias!")
+if Dia>9 and Dia<11:
+    print("Outubro tem 31 dias!")
+if Dia>10 and Dia<12:
+    print("Novembro tem 30 dias!")
+if Dia>11 and Dia<13:
+    print("Dezembro tem 31 dias!")
